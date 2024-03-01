@@ -23,7 +23,7 @@ namespace Aula_2902___Exercicio_5
             j = Convert.ToInt32(Console.ReadLine());
 
             x = Convert.ToInt32(Math.Pow(b, 3) * h);
-            r = x / j;
+            r = x / (float)j; //fazendo cast explícito. Dá pra usar convert tbm
 
             Console.WriteLine($"O valor de R é: {r}");
 
