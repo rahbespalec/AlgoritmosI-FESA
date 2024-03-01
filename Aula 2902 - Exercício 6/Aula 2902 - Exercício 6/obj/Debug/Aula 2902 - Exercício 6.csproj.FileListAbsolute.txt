@@ -1,0 +1,3 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercício 6\Aula 2902 - Exercício 6\obj\Debug\Aula 2902 - Exercício 6.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercício 6\Aula 2902 - Exercício 6\obj\Debug\Aula 2902 - Exercício 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercício 6\Aula 2902 - Exercício 6\obj\Debug\Aula 2902 - Exercício 6.csproj.CoreCompileInputs.cache
