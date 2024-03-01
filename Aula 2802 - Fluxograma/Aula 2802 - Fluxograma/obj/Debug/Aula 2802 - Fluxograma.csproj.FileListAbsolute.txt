@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\bin\Debug\Aula 2802 - Fluxograma.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\bin\Debug\Aula 2802 - Fluxograma.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\bin\Debug\Aula 2802 - Fluxograma.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\obj\Debug\Aula 2802 - Fluxograma.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\obj\Debug\Aula 2802 - Fluxograma.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\obj\Debug\Aula 2802 - Fluxograma.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\obj\Debug\Aula 2802 - Fluxograma.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2802 - Fluxograma\Aula 2802 - Fluxograma\obj\Debug\Aula 2802 - Fluxograma.pdb

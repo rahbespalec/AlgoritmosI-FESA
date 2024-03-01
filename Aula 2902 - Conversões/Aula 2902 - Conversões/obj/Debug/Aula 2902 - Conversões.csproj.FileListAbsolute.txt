@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\bin\Debug\Aula 2902 - Conversões.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\bin\Debug\Aula 2902 - Conversões.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\bin\Debug\Aula 2902 - Conversões.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\obj\Debug\Aula 2902 - Conversões.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\obj\Debug\Aula 2902 - Conversões.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\obj\Debug\Aula 2902 - Conversões.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\obj\Debug\Aula 2902 - Conversões.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Conversões\Aula 2902 - Conversões\obj\Debug\Aula 2902 - Conversões.pdb

@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\bin\Debug\Aula 2902 - Exercicio 5.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\bin\Debug\Aula 2902 - Exercicio 5.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\bin\Debug\Aula 2902 - Exercicio 5.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\obj\Debug\Aula 2902 - Exercicio 5.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\obj\Debug\Aula 2902 - Exercicio 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\obj\Debug\Aula 2902 - Exercicio 5.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\obj\Debug\Aula 2902 - Exercicio 5.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 2902 - Exercicio 5\Aula 2902 - Exercicio 5\obj\Debug\Aula 2902 - Exercicio 5.pdb
