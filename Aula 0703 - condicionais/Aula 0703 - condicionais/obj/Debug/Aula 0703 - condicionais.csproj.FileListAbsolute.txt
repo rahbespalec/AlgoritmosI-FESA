@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\bin\Debug\Aula 0703 - condicionais.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\bin\Debug\Aula 0703 - condicionais.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\bin\Debug\Aula 0703 - condicionais.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\obj\Debug\Aula 0703 - condicionais.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\obj\Debug\Aula 0703 - condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\obj\Debug\Aula 0703 - condicionais.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\obj\Debug\Aula 0703 - condicionais.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0703 - condicionais\Aula 0703 - condicionais\obj\Debug\Aula 0703 - condicionais.pdb
