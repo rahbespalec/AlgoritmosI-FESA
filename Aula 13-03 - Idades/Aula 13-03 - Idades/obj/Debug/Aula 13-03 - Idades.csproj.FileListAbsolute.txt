@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\bin\Debug\Aula 13-03 - Idades.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\bin\Debug\Aula 13-03 - Idades.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\bin\Debug\Aula 13-03 - Idades.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\obj\Debug\Aula 13-03 - Idades.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\obj\Debug\Aula 13-03 - Idades.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\obj\Debug\Aula 13-03 - Idades.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\obj\Debug\Aula 13-03 - Idades.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 13-03 - Idades\Aula 13-03 - Idades\obj\Debug\Aula 13-03 - Idades.pdb

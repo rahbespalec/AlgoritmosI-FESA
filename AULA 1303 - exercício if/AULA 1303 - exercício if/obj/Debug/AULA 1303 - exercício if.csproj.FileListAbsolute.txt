@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\obj\Debug\AULA 1303 - exercício if.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\obj\Debug\AULA 1303 - exercício if.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\obj\Debug\AULA 1303 - exercício if.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\bin\Debug\AULA 1303 - exercício if.exe.config
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\bin\Debug\AULA 1303 - exercício if.exe
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\bin\Debug\AULA 1303 - exercício if.pdb
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\obj\Debug\AULA 1303 - exercício if.exe
+C:\Users\081240024\Documents\Algoritmos\AULA 1303 - exercício if\AULA 1303 - exercício if\obj\Debug\AULA 1303 - exercício if.pdb
