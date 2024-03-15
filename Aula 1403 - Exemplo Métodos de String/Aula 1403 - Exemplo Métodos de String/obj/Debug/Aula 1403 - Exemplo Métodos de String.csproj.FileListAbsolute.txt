@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\bin\Debug\Aula 1403 - Exemplo Métodos de String.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\bin\Debug\Aula 1403 - Exemplo Métodos de String.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\bin\Debug\Aula 1403 - Exemplo Métodos de String.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\obj\Debug\Aula 1403 - Exemplo Métodos de String.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\obj\Debug\Aula 1403 - Exemplo Métodos de String.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\obj\Debug\Aula 1403 - Exemplo Métodos de String.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\obj\Debug\Aula 1403 - Exemplo Métodos de String.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1403 - Exemplo Métodos de String\Aula 1403 - Exemplo Métodos de String\obj\Debug\Aula 1403 - Exemplo Métodos de String.pdb
