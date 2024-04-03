@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\bin\Debug\teste2.exe.config
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\obj\Debug\teste2.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\obj\Debug\teste2.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\obj\Debug\teste2.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\obj\Debug\teste2.exe
+C:\Users\081240024\Documents\Algoritmos\teste2\teste2\obj\Debug\teste2.pdb
