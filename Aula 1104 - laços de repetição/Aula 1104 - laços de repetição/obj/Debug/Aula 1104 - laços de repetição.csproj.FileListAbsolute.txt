@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\bin\Debug\Aula 1104 - laços de repetição.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\bin\Debug\Aula 1104 - laços de repetição.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\bin\Debug\Aula 1104 - laços de repetição.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\obj\Debug\Aula 1104 - laços de repetição.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\obj\Debug\Aula 1104 - laços de repetição.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\obj\Debug\Aula 1104 - laços de repetição.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\obj\Debug\Aula 1104 - laços de repetição.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - laços de repetição\Aula 1104 - laços de repetição\obj\Debug\Aula 1104 - laços de repetição.pdb

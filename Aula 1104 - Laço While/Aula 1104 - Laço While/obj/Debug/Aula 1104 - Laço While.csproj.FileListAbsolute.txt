@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\bin\Debug\Aula 1104 - Laço While.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\bin\Debug\Aula 1104 - Laço While.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\bin\Debug\Aula 1104 - Laço While.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\obj\Debug\Aula 1104 - Laço While.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\obj\Debug\Aula 1104 - Laço While.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\obj\Debug\Aula 1104 - Laço While.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\obj\Debug\Aula 1104 - Laço While.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 1104 - Laço While\Aula 1104 - Laço While\obj\Debug\Aula 1104 - Laço While.pdb
