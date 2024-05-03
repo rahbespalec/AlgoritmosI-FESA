@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\bin\Debug\Aula 0205 - ex 51.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\bin\Debug\Aula 0205 - ex 51.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\bin\Debug\Aula 0205 - ex 51.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\obj\Debug\Aula 0205 - ex 51.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\obj\Debug\Aula 0205 - ex 51.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\obj\Debug\Aula 0205 - ex 51.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\obj\Debug\Aula 0205 - ex 51.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0205 - ex 51\Aula 0205 - ex 51\obj\Debug\Aula 0205 - ex 51.pdb
