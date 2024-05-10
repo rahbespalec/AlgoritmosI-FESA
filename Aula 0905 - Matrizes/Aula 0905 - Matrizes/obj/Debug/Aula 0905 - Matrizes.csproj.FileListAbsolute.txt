@@ -1,0 +1,8 @@
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\bin\Debug\Aula 0905 - Matrizes.exe.config
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\bin\Debug\Aula 0905 - Matrizes.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\bin\Debug\Aula 0905 - Matrizes.pdb
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\obj\Debug\Aula 0905 - Matrizes.csproj.AssemblyReference.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\obj\Debug\Aula 0905 - Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\obj\Debug\Aula 0905 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\obj\Debug\Aula 0905 - Matrizes.exe
+C:\Users\081240024\Documents\Algoritmos\Aula 0905 - Matrizes\Aula 0905 - Matrizes\obj\Debug\Aula 0905 - Matrizes.pdb
